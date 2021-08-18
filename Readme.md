@@ -1,8 +1,8 @@
 # REACT
 
 - [x] Criar o projeto (npx create-react-app sistema-login-react)
-- [ ] Instalação de libs (material-ui, react-router-dom, axios)
-- [ ] Criação de tela de login (Input, Button)
+- [x] Instalação de libs (material-ui, react-router-dom, axios)
+- [x] Criação de tela de login (Input, Button)
 - [ ] Criação de states (useState - React Hooks)
 - [ ] Criação contexts (useContext - React Hooks)
 - [ ] Criação de tela de usuário logado
@@ -27,6 +27,6 @@
 
 # GIT
 
-- [ ] Criar o repositório
-- [ ] Linkar o projeto com o repositório
+- [x] Criar o repositório
+- [x] Linkar o projeto com o repositório
 - [ ] Subir o projeto
