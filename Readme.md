@@ -12,8 +12,8 @@
 
 # MYSQL
 
-- [ ] Criar o banco de dados
-- [ ] Criar a tabela users (id, nome email, senha)
+- [x] Criar o banco de dados
+- [x] Criar a tabela users (id, nome email, senha)
 
 # NODE JS
 
